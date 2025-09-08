@@ -51,7 +51,7 @@
 												<h5>회원가입</h5>
 											</li>
 											<%-- Ex01 회원가입 기능을 만들어 봅시다. --%>
-												<form action="" method="post">
+												<form action="/join" method="post">
 													<li><input id="email" name="email" type="text"
 															placeholder="Email을 입력하세요"></li>
 													<li>
